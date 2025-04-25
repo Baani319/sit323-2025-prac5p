@@ -6,9 +6,6 @@ This project demonstrates how to Dockerize a simple Node.js web application. The
 - [Description](#description)
 - [Prerequisites](#prerequisites)
 - [How to Build and Run](#how-to-build-and-run)
-- [Pushing the Docker Image to Docker Hub](#pushing-the-docker-image-to-docker-hub)
-- [Accessing the Application](#accessing-the-application)
-- [License](#license)
 
 ## Description
 
